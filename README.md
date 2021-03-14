@@ -12,7 +12,7 @@ Image optimization is essential when it comes to performance and user experience
 Read more about all the features this extension includes below.
 These extensive image optimizations are a must-have feature for any Magento 2 store. 
 
-<br><br><a href="https://www.jajuma.de/en/jajuma-develop/extensions/webp-optimized-images-extension-for-magento-2"><img width="250" height="50" src="https://www.jajuma.de/sites/default/files/ckfinder/userfiles/images/jajuma-develop/get-it-now.png"></a>
+<br><br><a href="https://www.jajuma.de/en/jajuma-develop/extensions/ultimate-image-optimizer-extension-for-magento-2"><img width="250" height="50" src="https://www.jajuma.de/sites/default/files/ckfinder/userfiles/images/jajuma-develop/get-it-now.png"></a>
 
 ## AVIF & WebP - What is that?
 
@@ -75,7 +75,7 @@ WebP optimized next-generation image files on your site
   
 Additionally, Ultimate Image Optimizer provides
 
-* Lazy Loading
+* **Lazy Loading**
   * Converted images can be lazy loaded via native and JS-based Lazy Loading
   * Improved performance and faster page load
   * Customers and store benefit from reduced bandwidth usage
@@ -83,7 +83,7 @@ Additionally, Ultimate Image Optimizer provides
   * Lazy loading icon/image is configurable
   * Images can be excluded from lazy loading via blacklist as needed (e. g. above-the-fold / hero images)
   
-* High-Resolution Images
+* **High-Resolution/Retina Images**
   * By making use of high pixel-density of modern displays best possible image quality is ensured
   * No more "blurry", but super-sharp and crystal-clear product images 
   * High-Resolution ("Retina") images can be automatically created and added for your product images
@@ -91,9 +91,9 @@ Additionally, Ultimate Image Optimizer provides
 
 And on top of this, Ultimate Image Optimizer provides
 
-* Image Optimization Status & Statistics view in Magento Backend
+* **Image Optimization Status & Statistics view in Magento Backend**
   * With option to scan your media files anytime manually or regularly via cron job 
-  * Optimization progress and status in Backend
+  * Image conversion/optimization progress and status in Backend
   * Statistics and numbers on image file sizes and savings for each image converted to AVIF/WebP
 
 ## Features
@@ -101,7 +101,8 @@ And on top of this, Ultimate Image Optimizer provides
 
 Ultimate Image Optimizer Extension for Magento 2 by JaJuMa supports 2 different AVIF conversion tools and 3 different WebP conversion tools.
 Just make sure at least one of these is available and working on your server for each image type.
-If so, the extension will convert all your images, existing and new ones, automatically.
+If so, the extension will convert all your images, existing and new ones, automatically.<br>
+The conversion/optimization is processed on-the-fly, on page request from frontend, and/or via cron job/cli.
 Of course the extension allows you to configure the conversion quality and if needed even more conversion parameters, incl. conversion speed, priority, blacklisting some images from conversion and for compatibility with your custom functions.
 The extension also comes with a build-in test conversion & preview tool for both, AVIF & WebP, so it is even super easy to find the most suitable image quality for your demands.
 
