@@ -1,0 +1,25 @@
+{
+  "name": "jajuma/magento-2-ultimate-image-optimizer-avif-webp-lazy-responsive-high-res-retina-images",
+  "description": "Magento 2 Ultimate Image Optimizer",
+    "type": "magento2-module",
+    "license": "MIT",
+    "version": "2.0.0",
+    "homepage": "https://www.jajuma.de/en/jajuma-develop/extensions/ultimate-image-optimizer-extension-for-magento-2",
+  "authors": [
+    {
+      "name": "JaJuMa",
+      "email": "info@jajuma.de"
+      "homepage": "https://www.jajuma.de",
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jajuma\\ImageOptimizerUltimate\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}
