@@ -189,9 +189,6 @@ As a fallback, for these users the "the best supported" version of your images w
   * :cop: User Experience:<br>[Shariff Social Share for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/shariff-social-share-buttons-extension-for-magento-2)<br>
   GDPR compliant and customizable Sharing Buttons
   
-  * :ok_man: User Experience:<br>[Customer Navigation Manager for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/customer-navigation-manager-extension-for-magento-2)<br>
-  Easily manage the links in your Customer Account
-  
   * :movie_camera: Content Management:<br>[Video Widget for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/video-widget-gdpr-extension-for-magento-2)<br>
   Embedding YouTube videos, GDPR compliant with auto preview image & fully responsive
   
@@ -207,13 +204,26 @@ As a fallback, for these users the "the best supported" version of your images w
   * :bell: Marketing:<br>[Customer Registration Reminder & Cleanup for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/customer-registration-reminder-and-cleanup-extension-for-magento-2)<br>
   Increase Your Customer Engangement & Cleanup your Customer Account Data Automatically
 
-  * :triangular_flag_on_post: UI & UX:<br>[Awesome Hyvä for Hyvä Themes](https://www.jajuma.de/en/jajuma-develop/extensions/font-awesome-icons-for-hyva-themes-extension)<br>
+  * :mega: UX & Marketing:<br>[Category Grid Callouts for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/category-grid-callouts-extension-for-magento-2)<br>
+  Enrich Your Category Grids With Eye-Catching Callouts
+
+  * :sparkler: UX:<br>[Auto Select Options for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/auto-select-options-extension-for-magento-2)<br>
+  Automatically Select Configurable & Custom Options Based On Your Customer's Preferences
+
+  * :thought_balloon: UX & Marketing:<br>[Customer Satisfaction Feedback for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/category-grid-callouts-extension-for-magento-2)<br>
+  Collect Valuable Feedback From Your Customers & Understand How To Satisfy Your Customers
+  
+ * :ok_man: :free: User Experience:<br>[Customer Navigation Manager for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/customer-navigation-manager-extension-for-magento-2)<br>
+  Easily manage the links in your Customer Account
+
+  * :triangular_flag_on_post: :free: UI & UX:<br>[Awesome Hyvä for Hyvä Themes](https://www.jajuma.de/en/jajuma-develop/extensions/font-awesome-icons-for-hyva-themes-extension)<br>
   Font Awesome 5 & 6 Icons for your [Hyvä Themes](https://www.jajuma.de/de/jajuma-shop/online-shop-mit-magento-2-und-hyva-themes) Store  
 
+  * :question: :free: Content:<br>[Hyvä FAQ Widget for Hyvä Themes](https://www.jajuma.de/en/jajuma-develop/extensions/hyva-faq-widget-extension-for-hyva-themes)<br>
   * :heavy_division_sign: Accounting:<br>[Dynamic Shipping Tax for Magento 2](https://www.jajuma.de/en/jajuma-develop/extensions/font-awesome-icons-for-hyva-themes-extension)<br>
   Dynamic shipping tax calculation based on products in cart    
   
-  * :question: Content:<br>[Hyvä FAQ Widget for Hyvä Themes](https://www.jajuma.de/en/jajuma-develop/extensions/hyva-faq-widget-extension-for-hyva-themes)<br>
+  * :question: :free: Content:<br>[Hyvä FAQ Widget for Hyvä Themes](https://www.jajuma.de/en/jajuma-develop/extensions/hyva-faq-widget-extension-for-hyva-themes)<br>
   FAQ Widget for Magento 2 with Hyvä Theme
 
 ## Other [Services](https://www.jajuma.de/en/jajuma/company-magento-ecommerce-agency-stuttgart) by [JaJuMa](https://www.jajuma.de/)
